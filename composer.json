@@ -1,6 +1,6 @@
 {
-    "name": "thiktak/filament-simple-list-entry",
-    "type": "project",
+   "name": "firoozahmadi/filament-simple-list-entry",
+    "type": "library",
     "description": "Simple List Entry for Infolist",
     "keywords": [
         "laravel",
